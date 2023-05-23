@@ -5,3 +5,4 @@ code --install-extension dbaeumer.vscode-eslint
 code --install-extension usernamehw.errorlens
 code --install-extension fernandoescolar.vscode-solution-explorer
 code --install-extension jetpack-io.devbox
+code --install-extension ms-vscode.powershell
