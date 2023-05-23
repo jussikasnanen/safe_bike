@@ -4,7 +4,8 @@
                 "docker-compose",
                 "dotnet-sdk",
                 "nodejs-16_x",
-                "lazygit"
+                "lazygit",
+                "powershell"
               ],
   "shell": {
     "init_hook": null
